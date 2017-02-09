@@ -3,129 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Cameron\.android\build-cache\5816ee5b5d6936ac1b18ccc6314ccd6bb967375e\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
-        <dex dex="C:\Users\Cameron\Desktop\SomeSortOfAlarm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_81e92f8df92e7a8aa27a34d8e7fc9581a30dcd6a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cameron\Desktop\SomeSortOfAlarm\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="46b5c89a27a633d9058c4e72acf9eee89fa73f22">
-        <dex dex="C:\Users\Cameron\Desktop\SomeSortOfAlarm\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2a409e1d5124c7eeca7a36504eddc42963d64db7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cameron\Documents\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
-        <dex dex="C:\Users\Cameron\Desktop\SomeSortOfAlarm\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_5925ab14117cd228bfd51bc3db0707b3034f694d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cameron\.android\build-cache\36122b012a581ee6295104ddef22104707d1a357\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="C:\Users\Cameron\Desktop\SomeSortOfAlarm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ddf8a011abaf28066716376b2e1172567a6b3116\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cameron\Desktop\SomeSortOfAlarm\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\Cameron\Documents\GitHub\AndroidAlarm\SomeSortOfAlarm\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="53cb4a17c5d4c95f850e380ef5abdec49b36d8d5">
-        <dex dex="C:\Users\Cameron\Desktop\SomeSortOfAlarm\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_433a3ab0ea3f636b254c7f77f7c39e953731bdd9\classes.dex" />
+        <dex dex="C:\Users\Cameron\Documents\GitHub\AndroidAlarm\SomeSortOfAlarm\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_04ea74a26864588fa949fd818613115378a77e0c\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Cameron\.android\build-cache\5d27050c255ac69590b96694687b2f43072d0b8a\output\jars\classes.jar"
+        jar="C:\Users\Cameron\Documents\GitHub\AndroidAlarm\SomeSortOfAlarm\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="C:\Users\Cameron\Desktop\SomeSortOfAlarm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_875daba123e0cde2db2015e69a5fb8c41979762c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cameron\.android\build-cache\7486880a6d0f4ac5400aeb36c0f32b309bc9fd5b\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
-        <dex dex="C:\Users\Cameron\Desktop\SomeSortOfAlarm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01b835569ce937ddad5721dd581997ad46af887c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cameron\.android\build-cache\1ce4271a37ec573debbf1e9ba92742678bd5cd13\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Cameron\Desktop\SomeSortOfAlarm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d5e27348dd687c3c006b6b92e31c2bc4b3385a5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cameron\Documents\AndroidSDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta4\constraint-layout-solver-1.0.0-beta4.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0a9cb567dc008f570c28531720168f19148da965">
-        <dex dex="C:\Users\Cameron\Desktop\SomeSortOfAlarm\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-beta4_df630344f3fb6575c2f18d59c997fbd85fb88a93\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cameron\.android\build-cache\a0e1afa8f08af4896f2b78a2fdf216092925bca1\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="C:\Users\Cameron\Desktop\SomeSortOfAlarm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_875d5ade3043e310995805fce0edb91c7734e6a0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cameron\.android\build-cache\9f739de29a8ac33d3b1fef0faa6386f7712efc55\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="C:\Users\Cameron\Desktop\SomeSortOfAlarm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01c4a1b4228c7764eca01f28489a95a5e24a502f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cameron\.android\build-cache\d151785016f9a291f8f1fb2d49068f183a5827fa\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="C:\Users\Cameron\Desktop\SomeSortOfAlarm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec8f50caabed7ce3c34783131d350965f25bb320\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cameron\.android\build-cache\ca816e715255ea3992f7a43af9f4abf5e88e56a8\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="C:\Users\Cameron\Desktop\SomeSortOfAlarm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f95fe6a5114d4c498358e8a6b191f0074c4b1477\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Cameron\.android\build-cache\a97d16438538dcfdf0fbeab5ec8d5933107381be\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
-        <dex dex="C:\Users\Cameron\Desktop\SomeSortOfAlarm\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7855a8d7e214f99bc5c6aa53ccf11acb3e768f03\classes.dex" />
+        sha1="2698fdde3b41522c13b9e2dadc6b0fd35ddd6d27">
+        <dex dex="C:\Users\Cameron\Documents\GitHub\AndroidAlarm\SomeSortOfAlarm\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c842600ef0b4e5d4cc020b1e18ac67e6b44a4d75\classes.dex" />
     </item>
 
 </items>
